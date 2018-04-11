@@ -12,6 +12,8 @@
   "dependencies": {
     "bootstrap": "^3.3.5",
     "browserify": "^11.0.1",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-react": "^7.7.0",
     "flux": "^2.0.3",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
@@ -19,6 +21,7 @@
     "gulp-eslint": "^0.15.0",
     "gulp-open": "^1.0.0",
     "jquery": "^2.1.4",
+    "lodash": "^4.17.5",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
     "reactify": "^1.1.1",
